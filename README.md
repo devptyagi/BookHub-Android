@@ -1,6 +1,6 @@
 # BookHub-Android
 
-This was my first Android Project. An app that displays a list of books with their descriptions.     
+This was my first Android Project that I made as a part of Internshala Training Android Course. An app that displays a list of books with their descriptions.     
 
 ## GIF     
 <img src="bookHub.gif" width="300"/>       
