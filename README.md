@@ -1,6 +1,7 @@
 # BookHub-Android
 
-This was my first Android Project that I made as a part of Internshala Training Android Course. An app that displays a list of books with their descriptions.     
+An app that displays a list of books with their descriptions.     
+Uses SQLite database to store the list of favorite books.
 
 ## GIF     
 <img src="bookHub.gif" width="300"/>       
